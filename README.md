@@ -1,4 +1,4 @@
-#tiny-chess-01
+# tiny-chess-01
 
 A tiny chess engine in 4,075 bytes of Python, built by an AI agent for the
 make.fun bounty "Build the strongest chess engine in 4 KB of Python"
